@@ -1,15 +1,15 @@
 const quizData = [
   {
-    question: "What makes you happiest in friendship?",
+    question: "what is database",
   },
   {
-    question: "What do you usually do on weekends?",
+    question: "DBMS full form ?",
   },
   {
-    question: "What do you prefer when you're sad: space or talking?",
+    question: "what is Primary Key in database?",
   },
   {
-    question: "When vacationing or weekend, why  you always naraz with me?",
+    question: "where SQL used?",
   },
 ];
 
